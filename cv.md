@@ -1,4 +1,5 @@
 ## CV
+<img src="https://raw.githubusercontent.com/worldconspiracy/rsschool-cv/gh-pages/cvPhoto.jpeg" alt="photo" width="200px"/>
 
 **IVAN ULYBYSHEV** <br>
 <sub> worldconspiracy#9274[DISCORD] </sub><br>
